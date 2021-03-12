@@ -1,6 +1,6 @@
-Aplicación Web para almacenar enlaces web.
+App to save web link.
 
-Las herramientas utilizadas para realizar esta aplicación son las siguientes:
+The tools used to make this application are the following:
 -Nodejs
 -MySQL
 -Boostrap 4
